@@ -1,0 +1,30 @@
+.internal-page-wrapper{
+margin-top: 100px;
+text-align: center;
+}
+
+.all-wraper{
+    text-align: center;
+}
+
+.outer-wraper{
+display: inline-block;
+    width: 42%;
+}
+
+li{
+    list-style: none;
+}
+
+.product-image img{
+    width: 500px;
+}
+
+.all-title{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+
+
